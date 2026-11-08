@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tonytest180.github.io/webflux/sitemap.xml
